@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 
 title: nil
 description: nil
+
+github:
+  is_project_page: false
