@@ -1,4 +1,6 @@
 github:
   is_project_page: false
+ 
+classes: wide
 
 theme: jekyll-theme-tactile
