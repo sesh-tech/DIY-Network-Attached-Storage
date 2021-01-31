@@ -1,6 +1,6 @@
 github:
   is_project_page: false
   
-layout: default
+width: 1200px
 
 theme: jekyll-theme-tactile
